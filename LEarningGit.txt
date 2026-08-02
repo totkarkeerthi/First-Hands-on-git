@@ -8,3 +8,6 @@ git commit -m "comments"-sending files from the staging area to local repo
  create repo
 add repo cmd in cmd
 git push  -u origin master-adding files to git hub
+
+git config --global user.name "totkarkeerthi"
+git config --global user.email "keerthi.totkar1989@gmail.com"
