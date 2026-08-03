@@ -18,3 +18,8 @@ testing updates
 testing new line addtion
 
 testing new branch addition 
+
+git checkout -b "NewBranch"
+
+
+git push --set-upstream origin NewBranch
