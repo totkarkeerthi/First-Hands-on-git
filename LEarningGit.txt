@@ -21,13 +21,15 @@ git commit -m "updated on Nov 18th"
 *******************************************************************
 
 git remote add the remote repository to local
+
+
 ************Git remote add*********************************************
 
 git remote add origin "Give your Repository URL"
 
 example
 git remote add origin "https://github.com/totkarkeerthi/First-Hands-on-git.git"
-
+**************************************************************************************************************************************
  create repo
 add repo cmd in cmd
 git push  -u origin master-adding files to git hub
