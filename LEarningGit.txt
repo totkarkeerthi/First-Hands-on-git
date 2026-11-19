@@ -4,7 +4,8 @@ git init         -to initialize a folder
 git status   -to check the status of files
 git add        -adding files to the staging area from the working directory
 git commit -m "comments"-sending files from the staging area to local repo
-
+******** Git Commit Example*************
+git commit -m "updated on Nov 18th"
  create repo
 add repo cmd in cmd
 git push  -u origin master-adding files to git hub
