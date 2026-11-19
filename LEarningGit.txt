@@ -37,9 +37,15 @@ git push  -u origin master-adding files to git hub
 git config --global user.name "totkarkeerthi"
 git config --global user.email "keerthi.totkar1989@gmail.com"
 
-testing updates
+**********************************************
+To update the file from one branch to other
+**********************************************
+
+ git checkout  "NewBranch"    //Checkout the branch
+git checkout  "main" -- "LEarningGit.txt"   /// Checkout the file from updated branch  to update in the other branch 
+git commit -m "comments last Updated on Nov 18th"
+git push origin NewBranch 
 
 
-testing new line addtion
 
-Updated in github Get this in your local
+
