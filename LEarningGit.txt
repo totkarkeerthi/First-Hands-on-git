@@ -17,13 +17,3 @@ testing updates
 
 
 testing new line addtion
-
-
-git checkout -b "NewBranch"
-
-
-git push --set-upstream origin NewBranch
-
-
-
-New line added Nov 18
